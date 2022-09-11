@@ -1,0 +1,25 @@
+#add,#clos{
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+#add-div{
+    max-width: 250px;
+    width: 100%;
+    display: none;
+    background-color: brown;
+    color: white;
+    margin: 20px auto;
+    padding: 25px;
+    text-align: center;
+    border-radius: 25px;
+}
+.text-add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
